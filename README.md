@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/in/deep-332437315/overlay/background-image/)]
+[![MasterHead](https://www.linkedin.com/in/deep-332437315/overlay/background-image/)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Deep</h1>
 <h3 align="center">Python | Calculus | SQL | C++ | ML | Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
